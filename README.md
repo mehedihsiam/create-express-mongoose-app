@@ -178,7 +178,7 @@ This creates a complete CRUD module with:
 
 For issues, questions, or suggestions, please visit the template repository:
 
-https://github.com/YOUR_GITHUB_USERNAME/express-mongo-starter
+https://github.com/mehedihsiam/express-mongo-starter
 
 ## License
 
