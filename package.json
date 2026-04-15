@@ -1,0 +1,36 @@
+{
+  "name": "create-express-mongoose-app",
+  "version": "1.0.2",
+  "type": "module",
+  "description": "CLI tool to create production-grade Express.js with Mongoose starter projects",
+  "main": "src/cli.js",
+  "bin": {
+    "create-express-mongoose-app": "src/cli.js"
+  },
+  "scripts": {
+    "dev": "node src/cli.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "degit": "^2.8.4",
+    "ora": "^5.4.1",
+    "prompts": "^2.4.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mehedihsiam/create-express-mongo-app.git"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "starter",
+    "cli",
+    "template"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
