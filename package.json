@@ -1,6 +1,6 @@
 {
   "name": "create-express-mongoose-app",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "type": "module",
   "description": "CLI tool to create production-grade Express.js with Mongoose starter projects",
   "main": "src/cli.js",

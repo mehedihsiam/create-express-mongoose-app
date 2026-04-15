@@ -138,22 +138,6 @@ The `.env.example` file includes all available configuration options:
 }
 ```
 
-## Generating New Modules
-
-After project creation, generate new modules:
-
-```bash
-npm run generate-module <module-name>
-```
-
-This creates a complete CRUD module with:
-
-- Model
-- Service
-- Controller
-- Routes
-- Validation schema
-
 ## Troubleshooting
 
 ### Template Clone Failed
